@@ -1,2 +1,2 @@
 # GitTutorial
-Folder for leaning Git
+Folder for learning Git
